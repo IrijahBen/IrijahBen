@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm IrijahBen
 
-I'm a Data Expert with 5 years of experience, passionate about leveraging data to drive insights and build intelligent solutions. I enjoy working with a wide range of technologies to bring ideas to life.
+I'm a Data Expert and website developer with 5 years of experience in data world and 2 years a website developer, passionate about leveraging data to drive insights and build intelligent solutions. I enjoy working with a wide range of technologies to bring ideas to life.
 
 My goal is to contribute to impactful projects and continuously learn and collaborate with others in the tech community. Whether it's developing robust data pipelines, crafting machine learning models, or designing intuitive user interfaces, I'm always up for a challenge!
 
@@ -40,7 +40,7 @@ If you're interested in learning more about my work or discussing potential coll
 
 <p align="left">
   <a href="YOUR_GOOGLE_BLOGGER_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Google%20Blogger-FF6600?style=for-the-badge&logo=blogger&logoColor=white" alt="Google Blogger"/></a>
-  <a href="YOUR_MEDIUM_PROFILE_LINK_HERE" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://medium.com/@abayomiajiboye46111" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
 ---
@@ -66,6 +66,15 @@ If you're interested in learning more about my work or discussing potential coll
 
 ---
 
+## 📫 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajiboye-abayomi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ABAYOMIAJIBOYE1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:abayomiajiboye46111@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -84,4 +93,3 @@ If you're interested in learning more about my work or discussing potential coll
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IrijahBen&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
 </p>
-
